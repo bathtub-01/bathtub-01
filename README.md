@@ -1,8 +1,8 @@
 Hi, this is bathtub.
 
-I am currently a master’s student in CS, working on architectral design for crypto accelerators. I study PL stuff in my spare time.
+I am currently a PhD student at Heriot-Watt University, doing architectural designs for functional languages.
 
-You can contact me by bathtub@whu.edu.cn.
+You can contact me by yorkgank@gmail.com.
 
 <!---
 bathtub-01/bathtub-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
